@@ -37,7 +37,7 @@ A CSV inventory of 41 active and transitional rock glaciers in the La Sal Mounta
 
 | Column | Units | Description |
 |---|---|---|
-| `aspect_med_cardinal` | Median aspect of the full rock glacier polygon, cardinal direction (N, NE, E, SE, S, SW, W, NW) |
+| `aspect_med_cardinal` | — | Median aspect of the full rock glacier polygon, cardinal direction (N, NE, E, SE, S, SW, W, NW) |
 | `area_m2` | m² | Total area of the rock glacier polygon |
 | `mean_slope_deg` | degrees | Mean slope across the rock glacier polygon (Copernicus 30-m DEM) |
 | `mean_elevation_m` | m | Mean elevation of the rock glacier polygon (Copernicus 30-m DEM) |
